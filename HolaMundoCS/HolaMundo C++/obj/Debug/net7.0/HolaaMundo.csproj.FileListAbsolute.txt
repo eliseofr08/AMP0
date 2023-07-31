@@ -1,0 +1,15 @@
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\bin\Debug\net7.0\HolaaMundo.exe
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\bin\Debug\net7.0\HolaaMundo.deps.json
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\bin\Debug\net7.0\HolaaMundo.runtimeconfig.json
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\bin\Debug\net7.0\HolaaMundo.dll
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\bin\Debug\net7.0\HolaaMundo.pdb
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\obj\Debug\net7.0\HolaaMundo.csproj.AssemblyReference.cache
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\obj\Debug\net7.0\HolaaMundo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\obj\Debug\net7.0\HolaaMundo.AssemblyInfoInputs.cache
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\obj\Debug\net7.0\HolaaMundo.AssemblyInfo.cs
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\obj\Debug\net7.0\HolaaMundo.csproj.CoreCompileInputs.cache
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\obj\Debug\net7.0\HolaaMundo.dll
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\obj\Debug\net7.0\refint\HolaaMundo.dll
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\obj\Debug\net7.0\HolaaMundo.pdb
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\obj\Debug\net7.0\HolaaMundo.genruntimeconfig.cache
+c:\Users\elise\OneDrive\Documentos\amp0\java\HolaaMundo\obj\Debug\net7.0\ref\HolaaMundo.dll
